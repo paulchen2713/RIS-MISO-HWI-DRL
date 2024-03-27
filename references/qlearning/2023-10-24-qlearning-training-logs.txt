@@ -1,0 +1,115 @@
+(sb3) C:\Users\paulc\Downloads\RIS-MISO-DRL\QLearning>python qlearning.py
+number of actions: 4
+random action: 3
+state values range:
+  [1. 1. 1. 1. 1. 1. 1. 1.]
+  [-1. -1. -1. -1. -1. -1. -1. -1.]
+len(env.observation_space.high): 8
+discrete observation space window size: [0.25 0.25 0.25 0.25 0.25 0.25 0.25 0.25]
+q_table size: [8, 8, 8, 8, 8, 8, 8, 8, 4]
+<class 'tuple'>
+(5, 2, 6, 3, 2, 6, 0, 0)
+<class 'tuple'>
+(5, 2, 6, 3, 2, 6, 0, 0, 0)
+
+Episode:  1000, average reward: 211.2, current epsilon: 0.98
+Episode:  2000, average reward: 211.0, current epsilon: 0.96
+Episode:  3000, average reward: 211.2, current epsilon: 0.94
+Episode:  4000, average reward: 211.5, current epsilon: 0.92
+Episode:  5000, average reward: 211.6, current epsilon: 0.90
+Episode:  6000, average reward: 210.8, current epsilon: 0.88
+Episode:  7000, average reward: 211.1, current epsilon: 0.86
+Episode:  8000, average reward: 210.9, current epsilon: 0.84
+Episode:  9000, average reward: 211.1, current epsilon: 0.82
+Episode: 10000, average reward: 211.5, current epsilon: 0.80
+Episode: 11000, average reward: 211.6, current epsilon: 0.78
+Episode: 12000, average reward: 211.3, current epsilon: 0.76
+Episode: 13000, average reward: 210.1, current epsilon: 0.74
+Episode: 14000, average reward: 211.0, current epsilon: 0.72
+Episode: 15000, average reward: 211.3, current epsilon: 0.70
+Episode: 16000, average reward: 211.7, current epsilon: 0.68
+Episode: 17000, average reward: 210.6, current epsilon: 0.66
+Episode: 18000, average reward: 211.6, current epsilon: 0.64
+Episode: 19000, average reward: 211.0, current epsilon: 0.62
+Episode: 20000, average reward: 210.6, current epsilon: 0.60
+Episode: 21000, average reward: 211.3, current epsilon: 0.58
+Episode: 22000, average reward: 212.2, current epsilon: 0.56
+Episode: 23000, average reward: 212.2, current epsilon: 0.54
+Episode: 24000, average reward: 211.9, current epsilon: 0.52
+Episode: 25000, average reward: 210.2, current epsilon: 0.50
+Episode: 26000, average reward: 210.1, current epsilon: 0.48
+Episode: 27000, average reward: 210.7, current epsilon: 0.46
+Episode: 28000, average reward: 211.4, current epsilon: 0.44
+Episode: 29000, average reward: 211.9, current epsilon: 0.42
+Episode: 30000, average reward: 212.3, current epsilon: 0.40
+Episode: 31000, average reward: 211.5, current epsilon: 0.38
+Episode: 32000, average reward: 211.1, current epsilon: 0.36
+Episode: 33000, average reward: 211.7, current epsilon: 0.34
+Episode: 34000, average reward: 210.7, current epsilon: 0.32
+Episode: 35000, average reward: 210.7, current epsilon: 0.30
+Episode: 36000, average reward: 211.2, current epsilon: 0.28
+Episode: 37000, average reward: 210.8, current epsilon: 0.26
+Episode: 38000, average reward: 211.1, current epsilon: 0.24
+Episode: 39000, average reward: 211.1, current epsilon: 0.22
+Episode: 40000, average reward: 210.9, current epsilon: 0.20
+Episode: 41000, average reward: 211.8, current epsilon: 0.18
+Episode: 42000, average reward: 210.8, current epsilon: 0.16
+Episode: 43000, average reward: 210.6, current epsilon: 0.14
+Episode: 44000, average reward: 210.7, current epsilon: 0.12
+Episode: 45000, average reward: 210.6, current epsilon: 0.10
+Episode: 46000, average reward: 211.7, current epsilon: 0.08
+Episode: 47000, average reward: 211.1, current epsilon: 0.06
+Episode: 48000, average reward: 211.9, current epsilon: 0.04
+Episode: 49000, average reward: 212.2, current epsilon: 0.02
+Episode: 50000, average reward: 212.2, current epsilon: -0.00
+Episode: 51000, average reward: 212.0, current epsilon: -0.00
+Episode: 52000, average reward: 210.6, current epsilon: -0.00
+Episode: 53000, average reward: 210.9, current epsilon: -0.00
+Episode: 54000, average reward: 210.9, current epsilon: -0.00
+Episode: 55000, average reward: 211.4, current epsilon: -0.00
+Episode: 56000, average reward: 211.4, current epsilon: -0.00
+Episode: 57000, average reward: 211.3, current epsilon: -0.00
+Episode: 58000, average reward: 211.7, current epsilon: -0.00
+Episode: 59000, average reward: 210.9, current epsilon: -0.00
+Episode: 60000, average reward: 212.2, current epsilon: -0.00
+Episode: 61000, average reward: 211.0, current epsilon: -0.00
+Episode: 62000, average reward: 210.5, current epsilon: -0.00
+Episode: 63000, average reward: 210.8, current epsilon: -0.00
+Episode: 64000, average reward: 210.7, current epsilon: -0.00
+Episode: 65000, average reward: 211.4, current epsilon: -0.00
+Episode: 66000, average reward: 212.1, current epsilon: -0.00
+Episode: 67000, average reward: 211.0, current epsilon: -0.00
+Episode: 68000, average reward: 212.2, current epsilon: -0.00
+Episode: 69000, average reward: 211.1, current epsilon: -0.00
+Episode: 70000, average reward: 210.9, current epsilon: -0.00
+Episode: 71000, average reward: 211.5, current epsilon: -0.00
+Episode: 72000, average reward: 210.1, current epsilon: -0.00
+Episode: 73000, average reward: 211.6, current epsilon: -0.00
+Episode: 74000, average reward: 211.2, current epsilon: -0.00
+Episode: 75000, average reward: 210.4, current epsilon: -0.00
+Episode: 76000, average reward: 210.7, current epsilon: -0.00
+Episode: 77000, average reward: 211.2, current epsilon: -0.00
+Episode: 78000, average reward: 211.5, current epsilon: -0.00
+Episode: 79000, average reward: 210.4, current epsilon: -0.00
+Episode: 80000, average reward: 210.6, current epsilon: -0.00
+Episode: 81000, average reward: 209.8, current epsilon: -0.00
+Episode: 82000, average reward: 211.7, current epsilon: -0.00
+Episode: 83000, average reward: 210.9, current epsilon: -0.00
+Episode: 84000, average reward: 211.8, current epsilon: -0.00
+Episode: 85000, average reward: 211.2, current epsilon: -0.00
+Episode: 86000, average reward: 211.9, current epsilon: -0.00
+Episode: 87000, average reward: 211.2, current epsilon: -0.00
+Episode: 88000, average reward: 210.5, current epsilon: -0.00
+Episode: 89000, average reward: 211.2, current epsilon: -0.00
+Episode: 90000, average reward: 210.0, current epsilon: -0.00
+Episode: 91000, average reward: 211.5, current epsilon: -0.00
+Episode: 92000, average reward: 210.9, current epsilon: -0.00
+Episode: 93000, average reward: 211.4, current epsilon: -0.00
+Episode: 94000, average reward: 211.1, current epsilon: -0.00
+Episode: 95000, average reward: 211.1, current epsilon: -0.00
+Episode: 96000, average reward: 212.0, current epsilon: -0.00
+Episode: 97000, average reward: 212.0, current epsilon: -0.00
+Episode: 98000, average reward: 210.4, current epsilon: -0.00
+Episode: 99000, average reward: 211.6, current epsilon: -0.00
+
+duration: 329.5451 sec
