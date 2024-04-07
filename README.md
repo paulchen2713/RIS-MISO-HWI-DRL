@@ -6,17 +6,12 @@ Rejected by IEEE VTC2024-Spring\
 Working paper on ~IEEE Wireless Coomunication Letters~
 
 ## Note
-~I'll upload the code once I graduate or the paper gets accepted~ Never mind.
+~I'll upload the code once I graduate or the paper gets accepted~ Never mind.\
+The code is a mess, cause they squeezed me too hard, I'm burning out, I give up.
 
-## Run
-### 0. Dependency
-
-### 1. Installing
-- Set up a new conda environment, e.g. ```conda create -n sb3 python=3.8```
-```
-conda create -n [env_name] python=[version]
-```
-- Install all the requirements
-```
-pip install -r requirements.txt
-```
+## Installing
+- Install Anaconda
+- Import the environment
+  ```
+  conda env create --file sb3.yaml --name sb3
+  ```
