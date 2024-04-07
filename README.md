@@ -10,6 +10,7 @@ Working paper on ~IEEE Wireless Coomunication Letters~
 
 ## Run
 ### 0. Dependency
+$$
 \begin{table*}[!ht]
     \caption{Hardware and Software Configuration}
     \label{Tab:HW-and-SW-Settings}
@@ -37,6 +38,7 @@ Working paper on ~IEEE Wireless Coomunication Letters~
         scienceplots & 2.1.0  \\ \hline
     \end{tabular}
 \end{table*}
+$$
 ### 1. Installing
 - Set up a new conda environment, e.g. ```conda create -n sb3 python=3.8```
 ```
