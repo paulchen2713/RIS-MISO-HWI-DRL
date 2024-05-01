@@ -3,11 +3,11 @@ DRL-based RIS Configuration in RIS-assisted MU-MISO mmWave Systems for Min-Max M
 
 ## Paper
 Rejected by IEEE VTC2024-Spring\
-Working paper on ~IEEE Wireless Coomunication Letters~
+Working paper on IEEE Globecom 2024
 
 ## Note
 ~I'll upload the code once I graduate or the paper gets accepted~ Never mind.\
-The code is a mess, cause they squeezed me too hard, I'm burning out, I give up.
+The code is a mess. I'm burning out. I give up.
 
 ## Installing
 - Install Anaconda
