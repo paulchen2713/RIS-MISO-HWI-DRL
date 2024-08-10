@@ -5,7 +5,8 @@ DRL-based RIS Configuration in RIS-assisted MU-MISO mmWave Systems for Min-Max M
 ## Paper
 Rejected by IEEE VTC2024-Spring\
 Working paper on ~IEEE Wireless Communication Letters~\
-Rejected by IEEE Globecom 2024
+Rejected by IEEE Globecom 2024\
+Working paper on IEEE Wireless Communications and Networking Conference
 
 
 ## Note
