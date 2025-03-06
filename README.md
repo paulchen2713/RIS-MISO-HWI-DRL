@@ -10,7 +10,7 @@ Rejected by IEEE Globecom 2024\
 Working paper on IEEE Wireless Communications and Networking Conference\
 Accepted by IEEE WCNC 2025\
 
-<img src='https://github.com/user-attachments/assets/8fd5c4ff-3869-4388-8ecd-75c2d35da6a7' width=50% height=50%>
+<img src='https://github.com/user-attachments/assets/8fd5c4ff-3869-4388-8ecd-75c2d35da6a7' width=70% height=70%>
 
 
 
