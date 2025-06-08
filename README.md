@@ -1,7 +1,8 @@
 # RIS-MISO-DRL
 DRL-based RIS Configuration in RIS-assisted MU-MISO mmWave Systems for Min-Max MSE Optimization under HWI of Phase errors, Phase-dependent amplitude response model, and Imperfect CSI
 
-~This is a story of switching research topics three times, starting a completely new project from scratch, and finishing it within six months—getting rejected by top conferences several times, and finally getting accepted by one.~\
+~This is a story of switching research topics three times, starting a completely new project from scratch, and finishing it within six months—getting rejected by top conferences several times, and finally getting accepted by one.~
+
 I just got lucky to be accepted. My writing style isn’t meant to please the academic world—there’s no real genius in the research, and it’s completely useless in practice. But I tried really hard to explain everything I know as clearly as possible and to make the paper beginner-friendly. I hope it can benefit graduate students just like me.
 
 
