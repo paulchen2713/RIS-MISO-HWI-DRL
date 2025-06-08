@@ -4,33 +4,35 @@ DRL-based RIS Configuration in RIS-assisted MU-MISO mmWave Systems for Min-Max M
 ~This is a story of switching research topics three times, starting a completely new project from scratch, and finishing it within six months—getting rejected by top conferences several times, and finally getting accepted by one.~\
 I just got lucky to be accepted. My writing style isn’t meant to please the academic world—there’s no real genius in the research, and it’s completely useless in practice. But I tried really hard to explain everything I know as clearly as possible and to make the paper beginner-friendly. I hope it can benefit graduate students just like me.
 
+
 ## Reference
 - S. -H. Chen, H. -Y. Chang, C. -Y. Wang, R. -H. Hwang and W. -H. Chung, "[Worst-Case MSE Minimization for RIS-Assisted mmWave MU-MISO Systems with Hardware Impairments and Imperfect CSI](https://ieeexplore.ieee.org/document/10978171)," *2025 IEEE Wireless Communications and Networking Conference (WCNC)*, Milan, Italy, 2025, pp. 1-6.
 - If you find this code helpful, we highly recommend that you read and cite this paper.
-```!
-@INPROCEEDINGS{10978171,
-  author={Chen, Shao-Heng and Chang, Hsin-Yuan and Wang, Chih-Yu and Hwang, Ren-Hung and Chung, Wei-Ho},
-  booktitle={IEEE Wireless Commun. and Netw. Conf. (WCNC)}, 
-  title={Worst-Case MSE Minimization for RIS-Assisted mmWave MU-MISO Systems with Hardware Impairments and Imperfect CSI}, 
-  month=mar,
-  year={2025},
-  volume={},
-  number={},
-  pages={1-6},
-  keywords={Array signal processing;Communication systems;Simulation;Reconfigurable intelligent surfaces;Deep reinforcement learning;Hardware;Robustness;Millimeter wave communication;Optimization;Software development management;Deep reinforcement learning (DRL);hardware impairment (HWI);reconfigurable intelligent surface (RIS);imperfect channel state information (CSI);Von-Mises phase error},
-  doi={10.1109/WCNC61545.2025.10978171}}
-```
-```!
-@inproceedings{chen2025worst,
-  title={Worst-Case MSE Minimization for RIS-Assisted mmWave MU-MISO Systems with Hardware Impairments and Imperfect CSI},
-  author={Chen, Shao-Heng and Chang, Hsin-Yuan and Wang, Chih-Yu and Hwang, Ren-Hung and Chung, Wei-Ho},
-  booktitle={IEEE Wireless Commun. and Netw. Conf. (WCNC)},
-  month=mar,
-  year={2025},
-  pages={1--6},
-  organization={IEEE}
-}
-```
+  ```!
+  @INPROCEEDINGS{10978171,
+    author={Chen, Shao-Heng and Chang, Hsin-Yuan and Wang, Chih-Yu and Hwang, Ren-Hung and Chung, Wei-Ho},
+    booktitle={IEEE Wireless Commun. and Netw. Conf. (WCNC)}, 
+    title={Worst-Case MSE Minimization for RIS-Assisted mmWave MU-MISO Systems with Hardware Impairments and Imperfect CSI}, 
+    month=mar,
+    year={2025},
+    volume={},
+    number={},
+    pages={1-6},
+    keywords={Array signal processing;Communication systems;Simulation;Reconfigurable intelligent surfaces;Deep reinforcement learning;Hardware;Robustness;Millimeter wave communication;Optimization;Software development management;Deep reinforcement learning (DRL);hardware impairment (HWI);reconfigurable intelligent surface (RIS);imperfect channel state information (CSI);Von-Mises phase error},
+    doi={10.1109/WCNC61545.2025.10978171}}
+  ```
+  ```!
+  @inproceedings{chen2025worst,
+    title={Worst-Case MSE Minimization for RIS-Assisted mmWave MU-MISO Systems with Hardware Impairments and Imperfect CSI},
+    author={Chen, Shao-Heng and Chang, Hsin-Yuan and Wang, Chih-Yu and Hwang, Ren-Hung and Chung, Wei-Ho},
+    booktitle={IEEE Wireless Commun. and Netw. Conf. (WCNC)},
+    month=mar,
+    year={2025},
+    pages={1--6},
+    organization={IEEE}
+  }
+  ```
+
 
 ## Paper
 Working paper on IEEE International Conference on Communications\
